@@ -6,4 +6,5 @@ For the complete book and original Matlab scripts, see: http://www.dmdbook.com/
 
 ### Helpful tips
 
-For general comparisons between Matlab and Numpy, see: https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html
+For general comparisons between Matlab and Numpy, see: 
+https://docs.scipy.org/doc/numpy-dev/user/numpy-for-matlab-users.html
